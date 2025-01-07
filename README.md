@@ -13,7 +13,7 @@ A sophisticated tool for detecting potential keyloggers and suspicious processes
 ## Screenshots
 
 ### Main Interface - Process Monitoring
-![Process Monitoring](../images/process_monitoring.png)
+![Process Monitoring](images/process_monitoring.png)
 
 The main interface shows:
 - List of suspicious processes with their details
@@ -25,7 +25,7 @@ The main interface shows:
 - Suspicion Level
 
 ### System Analysis
-![System Analysis](../images/system_analysis.png)
+![System Analysis](images/system_analysis.png)
 
 The System Analysis tab displays:
 - Real-time CPU usage graphs
