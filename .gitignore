@@ -1,0 +1,11 @@
+*.log
+*.csv
+*.json
+*.dat
+KEYLOGGER_LOG.txt
+test_keystrokes.txt
+keylogger_data.log
+system_log.dat
+__pycache__/
+*.pyc
+.DS_Store 
